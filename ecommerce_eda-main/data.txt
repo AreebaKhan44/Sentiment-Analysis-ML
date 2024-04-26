@@ -1,0 +1,6 @@
+Ecommerce Sales Exploratory Data Analysis (EDA) | EDA on Actual transactions from UK retailer
+
+Download this dataset from Kaggle using the following link:
+https://www.kaggle.com/carrie1/ecommerce-data
+
+Dataset published by "Carrie" https://www.kaggle.com/carrie1
